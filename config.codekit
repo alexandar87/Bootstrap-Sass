@@ -13,166 +13,12 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/assets\/javascripts\/bootstrap-sprockets.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap-sprockets.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/bootstrap-sprockets-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/bootstrap-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/assets\/javascripts\/bootstrap.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap.min.js",
 		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/affix.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/affix.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/affix-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/alert.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/alert.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/alert-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/button.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/button.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/button-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/carousel.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/carousel.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/carousel-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/collapse.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/collapse.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/collapse-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/dropdown.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/dropdown.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/dropdown-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/modal.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/modal.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/modal-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/popover.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/popover.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/popover-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/scrollspy.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/scrollspy.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/scrollspy-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/tab.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/tab.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/tab-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/tooltip.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/tooltip.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/tooltip-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/bootstrap\/transition.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/transition.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/bootstrap\/min\/transition-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -202,7 +48,7 @@
 		},
 	"\/assets\/javascripts\/jquery.bxslider.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/javascripts\/jquery.bxslider.min.js",
 		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/jquery.bxslider.min-min.js",
@@ -213,7 +59,7 @@
 		},
 	"\/assets\/javascripts\/modernizr-2.6.2.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/javascripts\/modernizr-2.6.2.min.js",
 		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/modernizr-2.6.2.min-min.js",
@@ -228,17 +74,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/assets\/javascripts\/respond.min.js",
 		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/respond.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/assets\/javascripts\/scripts-min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/assets\/javascripts\/scripts-min.js",
-		"outputAbbreviatedPath": "\/assets\/javascripts\/min\/scripts-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1455,6 +1290,22 @@
 		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
+	"\/assets\/stylesheets\/mixing\/_helpers.scss": {
+		"createSourceMap": 0,
+		"debugStyle": 0,
+		"decimalPrecision": 10,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/assets\/stylesheets\/mixing\/_helpers.scss",
+		"outputAbbreviatedPath": "\/css\/_helpers.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 0,
+		"shouldRunBless": 0,
+		"useLibsass": 0
+		},
 	"\/assets\/stylesheets\/mixing\/_spacing.scss": {
 		"createSourceMap": 0,
 		"debugStyle": 0,
@@ -1531,6 +1382,26 @@
 	],
 "lastSavedByUser": "Alex Davidovic",
 "manualImportLinks": {
+	"\/assets\/javascripts\/scripts.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/javascripts\/bootstrap.min.js",
+			"position": 0,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/javascripts\/jquery.bxslider.min.js",
+			"position": 1,
+			"type": 0
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/assets\/javascripts\/modernizr-2.6.2.min.js",
+			"position": 2,
+			"type": 0
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
