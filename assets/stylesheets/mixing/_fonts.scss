@@ -1,0 +1,94 @@
+.m300 {
+  font-family: "museo-sans",sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+.m500 {
+  font-family: "museo-sans",sans-serif;
+  font-style: normal;
+  font-weight: 500;
+}
+.m700 {
+  font-family: "museo-sans",sans-serif;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.circular {
+  font-family: 'Crimson Text', serif;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('../assets/fonts/icomoon.eot?gj1dk1');
+  src:url('../assets/fonts/icomoon.eot?#iefixgj1dk1') format('embedded-opentype'),
+  url('../assets/fonts/icomoon.ttf?gj1dk1') format('truetype'),
+  url('../assets/fonts/icomoon.woff?gj1dk1') format('woff'),
+  url('../assets/fonts/icomoon.svg?gj1dk1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Checkmark:before {
+  content: "\e60f";
+}
+.icon-ecommerce-pricetagcopy4:before {
+  content: "\e600";
+}
+.icon-Ellipse2:before {
+  content: "\e601";
+}
+.icon-interface-logoutexit:before {
+  content: "\e602";
+}
+.icon-logo-Facebookcopy:before {
+  content: "\e603";
+}
+.icon-logo-Pinterestcopy:before {
+  content: "\e604";
+}
+.icon-logo-Twittercopy:before {
+  content: "\e605";
+}
+.icon-media-imagesphotocopy8:before {
+  content: "\e606";
+}
+.icon-media-imagesphotocopy:before {
+  content: "\e607";
+}
+.icon-Rectangle17copy11:before {
+  content: "\e608";
+}
+.icon-setting-gear:before {
+  content: "\e609";
+}
+.icon-Shape2copy3:before {
+  content: "\e60a";
+}
+.icon-Shape38copy:before {
+  content: "\e60b";
+}
+.icon-Shape39copy:before {
+  content: "\e60c";
+}
+.icon-tool-camera:before {
+  content: "\e60d";
+}
+.icon-tool-magnifiermagnificent:before {
+  content: "\e60e";
+}
